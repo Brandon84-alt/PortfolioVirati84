@@ -10,18 +10,8 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-
-
-
-
 -----------------------------------------------------------------------------------
 Developer information 
-
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
 ## Technologies used 🛠️
 
